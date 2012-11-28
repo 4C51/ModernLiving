@@ -1,0 +1,12 @@
+decorative items have up to 16 different designs
+some blocks can be used to form multiblock structures / are modular
+	e.g. lamp + legs = floor lamp
+	
+special wall and floor blocks carry power from a breakerbox
+	switch blocks interface with them to turn off the lights in a room
+	wall socket blocks interface to provide power to nearby appliances
+	
+alternative way to aquire special world gen items if world gen is unavailable
+
+chairs to sit in
+television
