@@ -10,3 +10,7 @@ alternative way to aquire special world gen items if world gen is unavailable
 
 chairs to sit in
 television
+
+elevators
+	hydraulic
+	cable
